@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+
+}
+.box1{
+    height:300px;
+    width:200px;
+    background-color:rgb(255, 192, 203);
+}
+.box2{
+    height:300px;
+    width:200px;
+    background-color:rgb(252, 6, 6);
+}
+.box3{
+    height:300px;
+    width:200px;
+    background-color:rgb(49, 49, 134);
+}
+body{
+    background-image:linear-gradient(to top hwb(350 18% 45%),rgb(70, 70, 116)yellow)
+}
